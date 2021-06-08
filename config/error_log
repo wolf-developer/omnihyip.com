@@ -1,0 +1,8 @@
+[17-May-2018 13:11:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/officeinfofetch/ecp/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/officeinfofetch/ecp/config/database.php on line 16
+[17-May-2018 13:11:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/officeinfofetch/ecp/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/officeinfofetch/ecp/config/view.php on line 17
